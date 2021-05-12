@@ -1,5 +1,5 @@
 title = "QualityDream Lab"
-baseURL = "https://example.com"
+baseURL = "https://zhaohuigeng.github.io/"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
